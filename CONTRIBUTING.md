@@ -4,7 +4,7 @@
 
 **Version:** 1.0
 
-**Status:** Approved
+**Status:** Active
 
 **Created:** 2026
 

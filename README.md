@@ -94,7 +94,7 @@ The first public symbol proposal is documented as:
 
 ---
 
-# Official Resources
+# Project Resources
 
 ## Symbol Variants
 
